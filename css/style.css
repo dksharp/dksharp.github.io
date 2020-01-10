@@ -186,7 +186,7 @@ h4.modal-title {
     color: #fff;
 }
 .about h3 span {
-    color: #f3286c;
+    color: #234bbe;
 }
 .about h4 {
     font-size: 1.2em;
@@ -268,7 +268,7 @@ p {
     border-radius: 0;
 }
 .progress-bar { 
-    background-color: #b3315d;
+    background-color: #234bbe;
 }
 .bar-grids h6 {
     font-size: 1em;
@@ -292,10 +292,10 @@ p {
 .experience-left {
     float: left;
     width: 30%;
-    background: #ec407a;
+    background: #234bbe;
     text-align: center;
     padding: 2em 0;
-    border: 2px solid #ec407a;
+    border: 2px solid #234bbe;
 	-webkit-transition: .5s all;
 	-moz-transition: .5s all;
 	transition: .5s all;
@@ -305,7 +305,7 @@ p {
 .experience-right {
     float: right;
     width: 70%;
-    border: 1px solid #ec407a;
+    border: 1px solid #234bbe;
 	padding: 1.5em;
 }
 .experience-left h3 {
@@ -448,7 +448,7 @@ p {
 	display: block;
 	width: 0;
 	height:2px;
-	background:#ec407a;
+	background:#234bbe;
 	position: absolute;
 	bottom: 0;
 	left: 0;
@@ -461,7 +461,7 @@ p {
 }
 .styled-input input:focus ~ label, .styled-input input:valid ~ label,.styled-input textarea:focus ~ label ,.styled-input textarea:valid ~ label{
     font-size: 1.1em;
-    color: #ec407a;
+    color: #234bbe;
     top: -1.3em;
     -webkit-transition: all 0.125s;
 	-moz-transition: all 0.125s; 
@@ -486,8 +486,8 @@ p {
     font-size: 1em;
     margin: 1em 0 0 0;
     -webkit-appearance: none;
-    background: #ec407a;
-    border: solid 1px #ec407a; 
+    background: #234bbe;
+    border: solid 1px #234bbe; 
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
 	-o-border-radius: 3px;
