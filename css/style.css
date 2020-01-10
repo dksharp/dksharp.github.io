@@ -11,7 +11,7 @@ html {
 body{
 	margin:0;
 	font-family: 'Roboto Condensed', sans-serif;
-	background: #fff;
+	background: transparent;
 }
 body a{
 	transition: 0.5s all;
@@ -98,15 +98,16 @@ ul.nav.navbar li a.w3ls-icon:hover {
 }
 /*-- //top-nav --*/
 /*-- banner --*/  
-.video {
-	background:url(../video/cv.jpg)no-repeat;
+/* .video { */
+	/* background:url(../video/cv.jpg)no-repeat;
     background-position:0px 0px;
-	text-align: left;
+	text-align: left; */
 	/* min-height: 100%; */
-    background-size:cover;
-    height: 100%;
+    /* background-size:cover;
+    height: 100%; */
 
-}
+/* } */
+
 .banner-text {
     margin: 19.5em 0 10em;
     text-align: center;
