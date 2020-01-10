@@ -1,3 +1,13 @@
+html {
+    background: url(../video/cv.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
 body{
 	margin:0;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -93,7 +103,9 @@ ul.nav.navbar li a.w3ls-icon:hover {
     background-position:0px 0px;
 	text-align: left;
 	/* min-height: 100%; */
-	background-size:cover;
+    background-size:cover;
+    height: 100%;
+
 }
 .banner-text {
     margin: 19.5em 0 10em;
