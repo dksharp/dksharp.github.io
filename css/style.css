@@ -652,7 +652,7 @@ p.agile-br {
     border: none;
     box-shadow: none;
     position: absolute;
-    background: #ec407a;
+    background: #6574cd;
     width: 100%;
     z-index: 9;
 }
@@ -664,7 +664,7 @@ p.agile-br {
     text-align: center;
     padding: 0;
     margin: 0.5em  0;
-    font-size: 1.8em;
+    font-size: 1.5em;
     color: #fff;
     font-weight: 200;
 }
