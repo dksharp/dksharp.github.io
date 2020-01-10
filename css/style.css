@@ -678,7 +678,7 @@ ul.nav.navbar li a {
 }
 @media(max-width:736px){
 .banner-text {
-    margin: 19em 0 6em; 
+    margin: 21em 0 6em; 
 }
 .banner-text h1 {
     font-size: 2.5em;
@@ -690,7 +690,7 @@ ul.nav.navbar li a {
 }
 @media (max-width: 667px){
 .banner-text {
-    margin: 16em 0 6em;
+    margin: 21em 0 6em;
 }
 }
 @media(max-width:640px){
@@ -897,7 +897,7 @@ h4.modal-title {
     font-size: 0.9em; 
 }
 .banner-text {
-    margin: 15em 0 2.6em;
+    margin: 21em 0 2.6em;
 	padding: 1.2em 1.5em;
 }
 .nav > li {
