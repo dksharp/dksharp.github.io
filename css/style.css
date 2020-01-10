@@ -762,7 +762,7 @@ ul.address li ul.agileits-address-text li {
 }
 @media(max-width:480px){
 .banner-text {
-    margin: 13em 0 6em;
+    margin: 21em 0 6em;
 } 
 .banner-text h6 {
     font-size: 1em; 
@@ -786,7 +786,7 @@ h4.modal-title {
 }
 @media(max-width:414px){
 .banner-text {
-    margin: 23.5em 0 6em;
+    margin: 21em 0 6em;
 	padding: 2em;
 }  
 .footer p { 
