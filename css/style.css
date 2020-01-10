@@ -37,7 +37,8 @@ body a:hover{
 }
 /*-- top-nav --*/  
 .top-nav {
-    background: #1a75d8;
+    background: #234bbe;
+    opacity: 0.80;
 }
 .nav > li {
     display: inline-block;
@@ -54,7 +55,7 @@ ul.nav.navbar li a {
     font-family: 'Text Me One', sans-serif;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active{ 
-	color: #1a75d8;
+	color: #234bbe;
 	background:transparent;
 	outline:none;
 } 
@@ -652,7 +653,7 @@ p.agile-br {
     border: none;
     box-shadow: none;
     position: absolute;
-    background: #1a75d8;
+    background: #234bbe;
     width: 100%;
     z-index: 9;
 }
